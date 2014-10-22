@@ -1,0 +1,9 @@
+runner.py
+setup.py
+Greyscale/MyImage.py
+Greyscale/__init__.py
+Greyscale.egg-info/PKG-INFO
+Greyscale.egg-info/SOURCES.txt
+Greyscale.egg-info/dependency_links.txt
+Greyscale.egg-info/requires.txt
+Greyscale.egg-info/top_level.txt
