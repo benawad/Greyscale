@@ -7,7 +7,7 @@ import py2exe
 config = {
     'description': 'Turn any image to grayscale',
     'author': 'Ben Awad',
-    'url': 'julieawad.com',
+    'url': 'benawad.com',
     'download_url': 'Where to download it.',
     'author_email': 'benawad97@gmail.com',
     'version': '0.1',
