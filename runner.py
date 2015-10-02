@@ -2,7 +2,7 @@
 from Greyscale import MyImage
 
 print "Enter absolute path to file (case sensitive)"
-path = raw_input('> ')
+path = raw_input('$ ')
 
 # instantiates MyImage object
 test = MyImage.MyImage(path)
